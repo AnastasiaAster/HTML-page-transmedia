@@ -1,0 +1,74 @@
+header {
+  margin: 100px;
+  margin-bottom: 20px;
+  color: #000000;
+}
+
+body {
+  font-family: "Andale Mono", monospace;
+  font-size: 14px;
+  line-height: 18px;
+  color: #4682B4;
+  background-image: url("img/background-1.jpg");
+}
+
+h1 {
+  font-family: "Luminari";
+  font-size: 30px;
+  line-height: 40px;
+}
+
+h2 {
+  font-family: "Luminari";
+  font-size: 25px;
+  line-height: 40px;
+  border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+  margin: 30px;
+}
+
+h3 {
+  font-family: "Luminari";
+  font-size: 20px;
+  margin: 20px;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #FFDAB9;
+  padding: 12px;
+}
+
+.site-header img {
+  display: block;
+  margin: 0 auto;
+}
+
+.logline {
+  margin-bottom: 30px;
+}
+
+.displayed {
+  align-items: center;
+}
+
+.character-flora {
+}
+
+.character-valery {
+}
+
+.character-joy {
+}
+
+.story {
+}
+
+.site-footer {
+  padding: 12px;
+  border-top: 3px solid #cccccc;
+  display: flex;
+  justify-content: space-between;
+  color: #999999;
+}
